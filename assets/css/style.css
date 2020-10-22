@@ -16,7 +16,7 @@ h1{
     background-color: #E6E6E6;
 }
 
-.GreyColor{
+.greyColor{
     background-color: #E0E0E0;
 }
 
@@ -30,4 +30,12 @@ h1{
 
 .green-color{
     color: #21CD36;
+}
+
+.red-color{
+    color: #EC1F21;
+}
+
+.icon-grey{
+    color: #ABABAB;
 }
