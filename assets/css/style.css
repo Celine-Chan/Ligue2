@@ -6,3 +6,28 @@ h1{
 .logo{
     height: 2rem;
 }
+
+.firstLine{
+    background-color: #091C3E;
+    color: white;
+}
+
+.greyLight{
+    background-color: #E6E6E6;
+}
+
+.GreyColor{
+    background-color: #E0E0E0;
+}
+
+.mediumGrey{
+    background-color: #B3B3B3;
+}
+
+.darkGrey{
+    background-color: #808080;
+}
+
+.green-color{
+    color: #21CD36;
+}
